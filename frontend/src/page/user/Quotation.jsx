@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import CustomerDetail from "../../components/CustomerDetail";
 import OrderSources from "../../components/OrderSources";
 import AddProduct from "../../components/AddProduct";
-import PriceSummary from "../../components/PRiceSummery";
+import PriceSummary from "../../components/PriceSummery";
 import { validateStep } from "../../utils/validationStep";
 
 const Quotation = () => {
