@@ -17,7 +17,7 @@ import ViewHistory from "../page/user/ViewHistory";
 
 // ADMIN PAGES...
 import Dashbaord from "../page/admin/Dashbaord";
-import UsersManagement from "../page/admin/USerManagement";
+import UsersManagement from "../page/admin/UserManagement";
 
 const router = createBrowserRouter([
   {
